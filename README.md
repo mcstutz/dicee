@@ -2,6 +2,8 @@
 
 Dicee JavaScript challenge for an online class.
 
+Click on "Refresh Me" and the dice changes and is compared with the winner and a flag displayed.
+
 The challenge was to take a skeleton HTML and CSS with six images of dice and write the code so that the image of the dice changes
 and declares a winner.  Also, you had to add a picture of a flag next to the winner.
 
